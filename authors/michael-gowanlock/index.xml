@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Gowanlock | Zane Fink</title>
+    <link>https://zanef.ink/authors/michael-gowanlock/</link>
+      <atom:link href="https://zanef.ink/authors/michael-gowanlock/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Gowanlock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:04 -0700</lastBuildDate>
+    <image>
+      <url>https://zanef.ink/img/icon-192.png</url>
+      <title>Michael Gowanlock</title>
+      <link>https://zanef.ink/authors/michael-gowanlock/</link>
+    </image>
+    
+    <item>
+      <title>The Acceleration of Algorithms With Low Compute to Memory Access Ratios on Heterogeneous CPU/GPU Platforms</title>
+      <link>https://zanef.ink/posters/napsa/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
+      <guid>https://zanef.ink/posters/napsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceleration of Algorithms With Low Compute to Memory Access Ratios on Heterogeneous CPU/GPU Platforms</title>
+      <link>https://zanef.ink/publication/posters_and_pres/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
+      <guid>https://zanef.ink/publication/posters_and_pres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

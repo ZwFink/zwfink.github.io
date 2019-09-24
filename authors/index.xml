@@ -1,25 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://zwfink.github.io/authors/</link>
-      <atom:link href="https://zwfink.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Zane Fink</title>
+    <link>https://zanef.ink/authors/</link>
+      <atom:link href="https://zanef.ink/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:04 -0700</lastBuildDate>
     <image>
-      <url>https://zwfink.github.io/img/icon-192.png</url>
+      <url>https://zanef.ink/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://zwfink.github.io/authors/</link>
+      <link>https://zanef.ink/authors/</link>
     </image>
     
     <item>
+      <title>**Zane Fink**</title>
+      <link>https://zanef.ink/authors/zane-fink/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
+      <guid>https://zanef.ink/authors/zane-fink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordan Wright</title>
+      <link>https://zanef.ink/authors/jordan-wright/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
+      <guid>https://zanef.ink/authors/jordan-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Gowanlock</title>
+      <link>https://zanef.ink/authors/michael-gowanlock/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
+      <guid>https://zanef.ink/authors/michael-gowanlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>*Fink, Z.*</title>
+      <link>https://zanef.ink/authors/fink-z./</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/authors/fink-z./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gowanlock, M.</title>
+      <link>https://zanef.ink/authors/gowanlock-m./</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/authors/gowanlock-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karsin, B.</title>
+      <link>https://zanef.ink/authors/karsin-b./</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/authors/karsin-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wright, J.</title>
+      <link>https://zanef.ink/authors/wright-j./</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/authors/wright-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Ladner</title>
+      <link>https://zanef.ink/authors/jason-ladner/</link>
+      <pubDate>Mon, 24 Sep 2018 00:14:35 -0700</pubDate>
+      <guid>https://zanef.ink/authors/jason-ladner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://zwfink.github.io/authors/admin/</link>
+      <link>https://zanef.ink/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zwfink.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>https://zanef.ink/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to my webpage. I&amp;rsquo;m Zane, an undergraduate research assistant at the Pathogen and Microbiome Institute and senior in Computer Science at NAU. Currently, I am working on research in HPC, Networking, and Bioinformatics. To learn more about the projects I am working on, check out the projects tab.&lt;/p&gt;
 </description>
     </item>
     

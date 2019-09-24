@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zane Fink</title>
+    <link>https://zanef.ink/project/</link>
+      <atom:link href="https://zanef.ink/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 23:08:57 -0700</lastBuildDate>
+    <image>
+      <url>https://zanef.ink/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://zanef.ink/project/</link>
+    </image>
+    
+    <item>
+      <title>Detection of Viral Exposure History Through Antiviral Antibody Response</title>
+      <link>https://zanef.ink/project/viral/</link>
+      <pubDate>Mon, 23 Sep 2019 23:08:57 -0700</pubDate>
+      <guid>https://zanef.ink/project/viral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid CPU/GPU Memory-Bound Database Primitives</title>
+      <link>https://zanef.ink/project/ata/</link>
+      <pubDate>Mon, 23 Sep 2019 23:01:15 -0700</pubDate>
+      <guid>https://zanef.ink/project/ata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Low-Powered Wide-Area Networks as a Control Channel for Challenged Network Environments</title>
+      <link>https://zanef.ink/project/wolff/</link>
+      <pubDate>Mon, 23 Sep 2019 22:58:36 -0700</pubDate>
+      <guid>https://zanef.ink/project/wolff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing the GPU to Accelerate Response-Based Cryptography Systems.</title>
+      <link>https://zanef.ink/project/rbc/</link>
+      <pubDate>Mon, 23 Sep 2019 22:49:44 -0700</pubDate>
+      <guid>https://zanef.ink/project/rbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

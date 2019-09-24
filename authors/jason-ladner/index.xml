@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Ladner | Zane Fink</title>
+    <link>https://zanef.ink/authors/jason-ladner/</link>
+      <atom:link href="https://zanef.ink/authors/jason-ladner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason Ladner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Sep 2018 00:14:35 -0700</lastBuildDate>
+    <image>
+      <url>https://zanef.ink/img/icon-192.png</url>
+      <title>Jason Ladner</title>
+      <link>https://zanef.ink/authors/jason-ladner/</link>
+    </image>
+    
+    <item>
+      <title>Panviral Pepseq: A Highly Multiplexed Serological Diagnostic</title>
+      <link>https://zanef.ink/publication/asm/</link>
+      <pubDate>Mon, 24 Sep 2018 00:14:35 -0700</pubDate>
+      <guid>https://zanef.ink/publication/asm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

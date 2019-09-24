@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gowanlock, M. | Zane Fink</title>
+    <link>https://zanef.ink/authors/gowanlock-m./</link>
+      <atom:link href="https://zanef.ink/authors/gowanlock-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Gowanlock, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 22:24:50 -0700</lastBuildDate>
+    <image>
+      <url>https://zanef.ink/img/icon-192.png</url>
+      <title>Gowanlock, M.</title>
+      <link>https://zanef.ink/authors/gowanlock-m./</link>
+    </image>
+    
+    <item>
+      <title>Accelerating Memory-Bound Database Primitives on Heterogeneous CPU/GPU Architectures</title>
+      <link>https://zanef.ink/publication/ata_j/</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/publication/ata_j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating the Unacceleratable: Hybrid CPU/GPU Algorithms for Memory-Bound Database Primitives</title>
+      <link>https://zanef.ink/publication/ata/</link>
+      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
+      <guid>https://zanef.ink/publication/ata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
