@@ -2,88 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Zane Fink</title>
-    <link>https://zanef.ink/authors/</link>
-      <atom:link href="https://zanef.ink/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://zanef.ink/authors/</link>
+      <atom:link href="http://zanef.ink/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:04 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zanef.ink/img/icon-192.png</url>
+      <url>http://zanef.ink/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://zanef.ink/authors/</link>
+      <link>http://zanef.ink/authors/</link>
     </image>
-    
-    <item>
-      <title>**Zane Fink**</title>
-      <link>https://zanef.ink/authors/zane-fink/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
-      <guid>https://zanef.ink/authors/zane-fink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jordan Wright</title>
-      <link>https://zanef.ink/authors/jordan-wright/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
-      <guid>https://zanef.ink/authors/jordan-wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Gowanlock</title>
-      <link>https://zanef.ink/authors/michael-gowanlock/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
-      <guid>https://zanef.ink/authors/michael-gowanlock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Fink, Z.**</title>
-      <link>https://zanef.ink/authors/fink-z./</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/authors/fink-z./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gowanlock, M.</title>
-      <link>https://zanef.ink/authors/gowanlock-m./</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/authors/gowanlock-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karsin, B.</title>
-      <link>https://zanef.ink/authors/karsin-b./</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/authors/karsin-b./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wright, J.</title>
-      <link>https://zanef.ink/authors/wright-j./</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/authors/wright-j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Ladner</title>
-      <link>https://zanef.ink/authors/jason-ladner/</link>
-      <pubDate>Mon, 24 Sep 2018 00:14:35 -0700</pubDate>
-      <guid>https://zanef.ink/authors/jason-ladner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zanef.ink/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zanef.ink/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to my web page. I&amp;rsquo;m Zane, an undergraduate research assistant at the Pathogen and Microbiome Institute and senior in Computer Science at NAU. Currently, I am working on research in HPC, Networking, and Bioinformatics. To learn more about the projects I am working on, check out the projects tab.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -1,142 +1,172 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zanef.ink/authors/zane-fink/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/author/others/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication_types/100/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/publication-type/2/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/author/anna-l-engelbrektson/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/jordan-wright/</loc>
-    <lastmod>2019-09-24T00:00:04-07:00</lastmod>
+    <loc>http://zanef.ink/author/annalee-s-boyle/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/michael-gowanlock/</loc>
-    <lastmod>2019-09-24T00:00:04-07:00</lastmod>
+    <loc>http://zanef.ink/authors/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/posters/</loc>
-    <lastmod>2019-09-24T00:00:04-07:00</lastmod>
+    <loc>http://zanef.ink/publication/ladner-2020-epitope/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication_types/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/author/fatima-rahee/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/author/jason-t-ladner/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/posters/napsa/</loc>
-    <lastmod>2019-09-24T00:00:04-07:00</lastmod>
+    <loc>http://zanef.ink/author/john-altin/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication/posters_and_pres/</loc>
-    <lastmod>2019-09-24T00:00:04-07:00</lastmod>
+    <loc>http://zanef.ink/author/jonathan-dambrozio/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/author/kurt-e-schaecher/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/project/viral/</loc>
+    <loc>http://zanef.ink/author/mars-stone/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/publication/fink-2020-pepsirf/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/publication_types/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/publication/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/author/sierra-n-henson/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/author/vidal-martinez/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/author/wenjuan-dong/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/author/zane-w-fink/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zanef.ink/project/viral/</loc>
     <lastmod>2019-09-23T23:08:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/project/</loc>
+    <loc>http://zanef.ink/project/</loc>
     <lastmod>2019-09-23T23:08:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/project/ata/</loc>
+    <loc>http://zanef.ink/project/ata/</loc>
     <lastmod>2019-09-23T23:01:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/project/wolff/</loc>
+    <loc>http://zanef.ink/project/wolff/</loc>
     <lastmod>2019-09-23T22:58:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/project/rbc/</loc>
+    <loc>http://zanef.ink/project/rbc/</loc>
     <lastmod>2019-09-23T22:49:44-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/fink-z./</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/publication-type/1/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication_types/1/</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/publication/gowanlock-2019-accelerating/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication/ata_j/</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/author/ben-karsin/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication/ata/</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/author/jordan-wright/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/gowanlock-m./</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/author/michael-gowanlock/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/karsin-b./</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/author/zane-fink/</loc>
+    <lastmod>2020-10-08T17:53:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/wright-j./</loc>
-    <lastmod>2019-09-23T22:24:50-07:00</lastmod>
+    <loc>http://zanef.ink/author/</loc>
   </url>
   
   <url>
-    <loc>https://zanef.ink/authors/jason-ladner/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
+    <loc>http://zanef.ink/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zanef.ink/publication/asm/</loc>
-    <lastmod>2019-09-24T00:14:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zanef.ink/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zanef.ink/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zanef.ink/tags/</loc>
+    <loc>http://zanef.ink/tags/</loc>
   </url>
   
 </urlset>

@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Zane Fink</title>
-    <link>https://zanef.ink/publication/</link>
-      <atom:link href="https://zanef.ink/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://zanef.ink/publication/</link>
+      <atom:link href="http://zanef.ink/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:04 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zanef.ink/img/icon-192.png</url>
+      <url>http://zanef.ink/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://zanef.ink/publication/</link>
+      <link>http://zanef.ink/publication/</link>
     </image>
     
     <item>
-      <title>The Acceleration of Algorithms With Low Compute to Memory Access Ratios on Heterogeneous CPU/GPU Platforms</title>
-      <link>https://zanef.ink/publication/posters_and_pres/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:04 -0700</pubDate>
-      <guid>https://zanef.ink/publication/posters_and_pres/</guid>
+      <title>Epitope-resolved profiling of the SARS-CoV-2 antibody response identifies cross-reactivity with an endemic human CoV</title>
+      <link>http://zanef.ink/publication/ladner-2020-epitope/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://zanef.ink/publication/ladner-2020-epitope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Accelerating Memory-Bound Database Primitives on Heterogeneous CPU/GPU Architectures</title>
-      <link>https://zanef.ink/publication/ata_j/</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/publication/ata_j/</guid>
+      <title>PepSIRF: a flexible and comprehensive tool for the analysis of data from highly-multiplexed DNA-barcoded peptide assays</title>
+      <link>http://zanef.ink/publication/fink-2020-pepsirf/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://zanef.ink/publication/fink-2020-pepsirf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating the Unacceleratable: Hybrid CPU/GPU Algorithms for Memory-Bound Database Primitives</title>
-      <link>https://zanef.ink/publication/ata/</link>
-      <pubDate>Mon, 23 Sep 2019 22:24:50 -0700</pubDate>
-      <guid>https://zanef.ink/publication/ata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Panviral Pepseq: A Highly Multiplexed Serological Diagnostic</title>
-      <link>https://zanef.ink/publication/asm/</link>
-      <pubDate>Mon, 24 Sep 2018 00:14:35 -0700</pubDate>
-      <guid>https://zanef.ink/publication/asm/</guid>
+      <link>http://zanef.ink/publication/gowanlock-2019-accelerating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://zanef.ink/publication/gowanlock-2019-accelerating/</guid>
       <description></description>
     </item>
     
